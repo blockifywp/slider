@@ -1,0 +1,20 @@
+{
+  "name": "blockify/slider",
+  "description": "Lightweight, customizable slider block for WordPress.",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Lee Anthony",
+      "email": "info@blockifywp.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "files": [
+      "blockify-slider.php"
+    ]
+  },
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
